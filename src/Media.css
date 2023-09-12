@@ -1,0 +1,227 @@
+@media(max-width:500px){
+
+*{
+    overflow-x: hidden;
+}
+
+.navbar{
+    /* display: none; */
+}
+.login8{
+ display: none;
+}
+.hii{
+    display: block;
+    width: 40px;
+    height:40px;
+}
+.mainimg2{
+    height: 150px;
+}
+.carousel{
+    height: 150px;
+
+}
+.simage{
+    width: 200px;
+    height: 250px;
+}
+.simage:hover{
+    box-shadow: 0 4px 8px gray;
+    transform: translateY(-20px);
+}
+.width{
+    width: 250px;
+    height: 200px;
+}
+
+.shoeimg{
+    width: 200px;
+    height: 180px;
+}
+.mom{
+    width: 200px;
+    height: 200px;
+}
+.caption9{
+    width: 200px;
+}
+.btn1{
+    width: 190px;
+}
+.pprd{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+
+    /* background-color: aqua; */
+}
+.prd11{
+ /* background-color: aqua; */
+ width: 190px;
+ height: 270px;
+}
+.search11{
+    width: 130px;
+}
+.search11{
+    font-size: 12px;
+}
+.nikee{
+    margin-left: 5px;
+}
+.mooor{
+    display: flex;
+    flex-direction: column;
+    height: 200vh;
+    /* background-color: aqua; */
+    width: 400px;
+    margin-bottom: 50px;
+   
+}
+.moreimg{
+    width: 400px;
+    height: 350px;
+
+}
+.more1{
+    margin-left: 0%;
+    width: 600px;
+    /* margin-top: 0%; */
+}
+
+.thu{
+    margin-top: 100px;
+}
+.more5{
+    /* margin-right: 20px;
+     */
+     padding-left: 10px;
+}
+.kerala{
+    /* margin-left: 250px; */
+    /* background-color: aqua; */
+    width: 620px;
+    margin-left: 10px;
+
+}
+.cartimage{
+    width: 80px;
+    height: 80px;
+    margin: 0%;
+}
+.cartname{
+    font-size: 13px;
+}
+.gil{
+    font-size: 15px;
+}
+.sayyan{
+    margin-left: 0%;
+}
+.carting{
+    display: flex;
+    /* justify-content: safe; */
+    /* background-color: aqua; */
+    width: 390px;
+    margin-right: 230px;
+}
+.jji{
+    display: none;
+}
+.saybtn{
+    font-size: 20px;
+    /* width: 1px;
+    height: 1px; */
+}
+.vim{
+    display: flex;
+    flex-direction: row;
+}
+.sayimg{
+    width: 20px;
+    height: 20px;
+}
+.cart1{
+    border-top: 0;
+}
+.vti{
+    margin-top: 13px;
+}
+.bill{
+    margin-right: 200px;
+}
+.empty{
+    width: 150px;
+    height: 150px;
+    /* margin-right: 200px; */
+    margin-top: 0;
+    margin-top: 100px;
+
+}
+.foot{
+    font-size: 17px;
+}
+.about{
+    font-size: 14px;
+}
+.brand{
+    height: 45px;
+    /* background-color: aqua; */
+    margin-bottom: 10px;
+    overflow-y: hidden;
+}
+.cat2{
+    margin: 0%;
+}
+.jil{
+    margin-right: 250px;
+    
+}
+.checkout-container{
+   /* margin-bottom: 1500px; */
+}
+.lookat{
+    display: none;
+}
+.num2{
+    height: 160px;
+    overflow-y: none;
+}
+.akhil1{
+    overflow-y: hidden;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.akhil2{
+    overflow-y: hidden;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.morename{
+    height: 50px;
+    overflow-y: hidden;
+}
+.morebrand{
+    height: 50px;
+    overflow-y: hidden;
+}
+.size{
+    height: 50px;
+    overflow-y: hidden;
+}
+.moreprice{
+    overflow-y: hidden;
+}
+.akhil3{
+    overflow-y: hidden;
+    height: 35px;
+}
+.akhil8{
+    height: 60px;
+    overflow-y: hidden;
+}
+}
+
